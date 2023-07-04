@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+     background: url(../bussinesbuy/image/bigstock-modern-office-interior-d-ren-331556980-e1621320513834\ 1.png);
+     background-repeat: no-repeat;
+     font-family: BPG Nino Mtavruli;
+
+}
+.container{
+     background: url(../bussinesbuy/image/1d9923b7f3d63baf49f7cfd6851a1b95\ 1.png);
+     background-repeat-x:no-repeat;
+     height: 446px;
+     width: 809px;
+     display: flex;
+     flex-direction: column;
+     margin: 200px auto;
+}
+.card-child{
+     display: flex;
+     margin-left: 20px;
+}
+.title{
+     color: #fff;
+     font-size: 20px;
+     margin-left: 5px;
+}
+.card-second-child{
+     display:flex;
+}
+.house-img{
+     margin: 20px 20px;
+}
+.right{
+     margin-left: 50px;
+     color: #fff;
+     font-size: 18px;
+}
+.price{
+     color: #00FFA3;
+}
+.sold{
+     border: none;
+     outline: none;
+     background: #F23232;
+     font-size: 32px;
+     font-family: BPG Nino Mtavruli;
+     width: 150px;
+     cursor: pointer;
+     margin: auto ;
+
+}
+.btns{
+     display: flex;
+}
+.close{
+     background: #FF2424;
+     font-size: 20px;
+     width: 94px;
+     height: 27px;
+     border: none;
+     border-radius: 7px;
+     color: #fff;
+     cursor: pointer;
+     margin-top: 35px;
+     margin-right: 20px;
+     font-family: 'Montserrat', sans-serif;
+     text-transform: uppercase;
+}

@@ -1,0 +1,68 @@
+body{
+     background: url(../housebuy/image/f8133d-9\(1\)\ 1.png);
+     background-repeat: no-repeat;
+     font-family: BPG Nino Mtavruli;
+
+}
+.container{
+     background: url(../housebuy/image/osobnjak-malibu-add-on_1675261293_721182\ 1.png);
+     background-repeat-x:no-repeat;
+     height: 446px;
+     width: 809px;
+     display: flex;
+     flex-direction: column;
+     margin: 200px auto;
+}
+.card-child{
+     display: flex;
+     margin-left: 20px;
+}
+.title{
+     color: #fff;
+     font-size: 20px;
+     margin-left: 5px;
+}
+.card-second-child{
+     display:flex;
+}
+.house-img{
+     margin: 20px 20px;
+}
+.right{
+     margin-left: 50px;
+     color: #fff;
+     font-size: 18px;
+}
+.price{
+     color: #00FFA3;
+}
+.sold{
+     border: none;
+     outline: none;
+     background: #F23232;
+     font-size: 32px;
+     width: 150px;
+     cursor: pointer;
+     margin: auto ;
+     font-family: BPG Nino Mtavruli;
+
+}
+.btns{
+     display: flex;
+     margin-top: 35px;
+}
+.close{
+     background: #FF2424;
+     font-size: 20px;
+     width: 94px;
+     height: 27px;
+     border: none;
+     border-radius: 7px;
+     color: #fff;
+     cursor: pointer;
+     margin-top: 35px;
+     margin-right: 15px;
+     font-family: 'Montserrat', sans-serif;
+     text-transform: uppercase;
+
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+body{
+     background: url(./image/577645-gta-5-4k-cool\ 1.png);
+     background-repeat: no-repeat;
+     font-family: BPG Nino Mtavruli;
+
+}
+.container{
+     background: url(./image/348817531_151106717822703_2581873919066061556_n\ 1.png);
+     background-repeat-x:no-repeat;
+     height: 446px;
+     width: 809px;
+     display: flex;
+     flex-direction: column;
+     margin: 200px auto;
+     border-radius: 15px;
+}
+.describe{
+     color: #FFF;
+     font-size: 24px;
+     font-family: Montserrat;
+     font-style: normal;
+     font-weight: 50;
+     line-height: normal;
+}
+.small{
+     font-size: 16px;
+}
+.name{
+     color: #FFF;
+     font-size: 36px;
+     font-family: Chicle;
+     font-style: normal;
+     font-weight: 400;
+     line-height: normal;
+     margin-left: 162px;
+}
+
+.card-second-child{
+     display:flex;
+}
+.house-img{
+     border: 1px solid white;
+     border-radius: 15px;
+     margin-top: 50px;
+     margin-left: 20px;
+}
+.right{
+     margin-top: 80px;
+     margin-left: 50px;
+     color: #fff;
+     font-size: 18px;
+}
+.price{
+     color: #00FFA3;
+}
+.close{
+     width: 94px;
+     height: 27px;
+     border: none;
+     outline: none;
+     border-radius: 7px;
+     background: #FF2424;
+     box-shadow: 0px 4px 50px 0px rgba(253, 17, 17, 0.51);
+     color: #FFF;
+     font-size: 20px;
+     font-family: Montserrat;
+     font-style: normal;
+     font-weight: 500;
+     line-height: normal;
+     cursor: pointer;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-right: 15px;
+     margin-top: -25px;
+     margin-left: auto;
+     text-transform: uppercase;
+}
